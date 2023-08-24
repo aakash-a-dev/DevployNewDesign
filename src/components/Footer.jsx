@@ -1,8 +1,8 @@
 const Footer = () => {
   return (
-  <div>
-    
-  </div>
+    <footer className="font-custom bg-[#fbe20c] text-[#2a2a2a] p-2">
+     Devploy ❤️ Student Community 
+    </footer>
   )
 }
 
